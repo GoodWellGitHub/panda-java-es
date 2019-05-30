@@ -1,0 +1,17 @@
+2019-05-27 19:38:54,887 INFO  main (org.elasticsearch.plugins.PluginsService:197) - no modules loaded
+2019-05-27 19:38:54,894 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2019-05-27 19:38:54,895 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2019-05-27 19:38:54,895 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2019-05-27 19:38:54,896 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2019-05-27 19:38:54,896 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2019-05-27 19:40:59,495 INFO  main (org.elasticsearch.plugins.PluginsService:197) - no modules loaded
+2019-05-27 19:40:59,501 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2019-05-27 19:40:59,501 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2019-05-27 19:40:59,501 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2019-05-27 19:40:59,502 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2019-05-27 19:40:59,502 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2019-05-28 10:21:36,865 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2019-05-28 10:21:36,868 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2019-05-28 10:21:36,868 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2019-05-28 10:21:36,868 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2019-05-28 10:21:36,869 INFO  main (org.elasticsearch.plugins.PluginsService:200) - loaded plugin [org.elasticsearch.transport.Netty4Plugin]
