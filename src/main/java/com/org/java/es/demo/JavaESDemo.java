@@ -24,16 +24,16 @@ public class JavaESDemo {
             //User user = (User) ESUtil.getDocument("user_index", "user_type", "1", User.class);
             //System.out.println(user);
 
-/*            boolean exists = ESUtil.existsDocument("user_index", "user_type", "1");
-            System.out.println(exists);*/
+            boolean exists = ESUtil.existsDocument("user_index", "user_type", "1");
+            System.out.println(exists);
 
             //    String id=ESUtil.updateDocument(user, "user_index", "user_type", "1");
             //   System.out.println(id);
 
-            HashMap<String, Object> stringStringHashMap = new HashMap<String, Object>();
+/*            HashMap<String, Object> stringStringHashMap = new HashMap<String, Object>();
             stringStringHashMap.put("userId", "guava");
 
-            ESUtil.search(stringStringHashMap, "user_index", null, null);
+            ESUtil.search(stringStringHashMap, "user_index", "user_type", null);*/
 
 
             ESUtil.close();
